@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Babel",
+		"Colorsublime",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Handlebars",
+		"HTML5",
+		"Jade",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"SideBarEnhancements",
+		"Themr",
+		"Twig",
+		"Vue Syntax Highlight"
+	]
+}

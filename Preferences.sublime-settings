@@ -1,0 +1,23 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_indent_guides": false,
+	"font_face": "Roboto Mono",
+	"font_options":
+	[
+		"bold"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"line_numbers": false,
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
+	"margin": 0,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
