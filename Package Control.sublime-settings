@@ -12,6 +12,7 @@
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"Github Color Theme",
 		"Handlebars",
 		"HTML5",
 		"Jade",
@@ -22,6 +23,8 @@
 		"PHP Getters and Setters",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Soda",
 		"Themr",
 		"Twig",
 		"Vue Syntax Highlight"
