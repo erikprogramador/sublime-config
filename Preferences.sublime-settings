@@ -1,26 +1,31 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+	"color_scheme": "Packages/User/Material-Theme-Custom.tmTheme",
 	"draw_indent_guides": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Roboto Mono",
 	"font_options":
 	[
 		"bold"
 	],
-	"font_size": 11,
+	"font_size": 10,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"Vintage"
+		"JavaScript"
 	],
-	"line_numbers": false,
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
+	"vintage_start_in_command_mode": true,
+	"line_numbers": true,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"margin": 0,
+	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
-	"overlay_scroll_bars": "enabled",
-	"theme": "Boxy Yesterday.sublime-theme",
-	"theme_tab_selected_filled": true,
-	"trim_trailing_white_space_on_save": true,
+	"theme": "Material-Theme.sublime-theme",
+	"theme_icons_materialized": false,
+	"theme_scrollbar_semi_overlayed": true,
+	"theme_size_xs": true,
+	"theme_statusbar_size_xs": true,
+	"theme_tooltips_font_xs": true,
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
