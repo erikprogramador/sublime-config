@@ -1,28 +1,28 @@
 {
-	"color_scheme": "Packages/User/Material-Theme-Custom.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_indent_guides": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Roboto Mono",
 	"font_options":
 	[
 		"bold"
 	],
 	"font_size": 10,
-	"highlight_line": true,
+	"highlight_line": false,
 	"ignored_packages":
 	[
-		"JavaScript"
+		"JavaScript",
+		"Vintage"
 	],
-	"vintage_start_in_command_mode": true,
 	"line_numbers": true,
-	"line_padding_bottom": 5,
-	"line_padding_top": 5,
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
 	"margin": 0,
 	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
+	"material_theme_small_statusbar": true,
+	"overlay_scroll_bars": "disabled",
 	"theme": "Material-Theme.sublime-theme",
 	"theme_icons_materialized": false,
-	"theme_scrollbar_semi_overlayed": true,
 	"theme_size_xs": true,
 	"theme_statusbar_size_xs": true,
 	"theme_tooltips_font_xs": true,
