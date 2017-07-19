@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-declare(strict_types=1);
 
 namespace ${1:App};
 
