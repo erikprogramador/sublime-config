@@ -1,12 +1,11 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_indent_guides": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_options":
 	[
 		"bold"
 	],
-	"font_size": 10,
 	"highlight_line": false,
 	"ignored_packages":
 	[
@@ -21,11 +20,12 @@
 	"material_theme_bold_tab": true,
 	"material_theme_small_statusbar": true,
 	"overlay_scroll_bars": "disabled",
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"theme_icons_materialized": false,
 	"theme_size_xs": true,
 	"theme_statusbar_size_xs": true,
 	"theme_tooltips_font_xs": true,
 	"translate_tabs_to_spaces": true,
+	"show_errors_inline": false,
 	"trim_trailing_white_space_on_save": true
 }
