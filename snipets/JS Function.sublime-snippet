@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-function ${1:functionName} () {
+function ${1:functionName}() {
 	$2
 }
 ]]></content>
