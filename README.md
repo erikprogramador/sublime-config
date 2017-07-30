@@ -16,3 +16,5 @@ F4 - Next match
 SHIFT + F4 - Previous match
 CTRL + SHIFT + A - Select content inside of a html tag
 CTRL + SHIFT + A * 2 - Select Content and html tag
+CTRL + SHIFT + M - Select inside the brackets
+ALT + SHIFT + SPACE - Select inside quotes
